@@ -2,9 +2,9 @@ site_name: SAA03 Notes
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
-    - toc.integrate
+    - navigation.instant
+    - toc.follow
     - navigation.top
     - search.suggest
     - search.highlight
