@@ -1,7 +1,3 @@
-# SAA03 Prep Notes
+# SAP02 Prep Notes
 
-
-## Introduction
-### IAM
-
-## Miscellanious
+## AWS WellArchitected Framework

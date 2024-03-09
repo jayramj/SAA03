@@ -1,4 +1,4 @@
-site_name: SAA03 Notes
+site_name: SAP02 Notes
 theme:
   name: material
   features:
@@ -28,3 +28,11 @@ theme:
 
 copyright: |
   &copy; 2024 <a href="https://github.com/jayramj"  target="_blank" rel="noopener">Jayram Joshi</a>
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+          
