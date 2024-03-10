@@ -39,3 +39,10 @@
 * S3 bucket needs to be enabled for transfer acceleration
 * Bucket name can not contain periods, needs to be dns compatible
 * Data first gets uploaded to the nearest Edge location. Edge locations transfer data over AWS global network which is very fast
+
+## S3 Lifecycle Configuration
+* For lifecycle transition an object in S3 Standard has to be there for duration of 30 days before it can be moved to other storage classes using a transition rule
+* One can manually move the object to other classes at any point of time
+
+### Transition Actions
+### Expiration Actions
