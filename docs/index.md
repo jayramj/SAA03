@@ -1,7 +1,15 @@
 # SAP02 Prep Notes
 
-## AWS WellArchitected Framework
+## Services
+[IAM](./services/iam.md)
+[S3](./services/S3.md)
 
-## AWS Security
+## Security
+[KMS](./security/kms.md)
 
-## S3
+## Misc
+
+[Bookmarks](./Misc/bookmarks.md)
+[WellArchitected](./Misc/wellarchitected.md)
+[TopicsMindMao](./Misc/topicsmindmap.md)
+
