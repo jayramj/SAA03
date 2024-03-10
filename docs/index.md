@@ -7,6 +7,9 @@
 
 [S3 SSE](./services/S3/S3ServerSideEnvryption.md) 
 
+[S3 Storage Classes](./services/S3/ObjectstorageClasses.md) 
+
+
 
 ## Security
 [KMS](./security/kms.md)
