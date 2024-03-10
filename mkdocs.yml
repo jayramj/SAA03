@@ -32,6 +32,7 @@ copyright: |
   &copy; 2024 <a href="https://github.com/jayramj"  target="_blank" rel="noopener">Jayram Joshi</a>
 
 markdown_extensions:
+  - tables:
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

@@ -2,7 +2,8 @@
 
 ## Services
 [IAM](./services/iam.md)
-[S3](./services/S3.md)
+[S3 Basics](./services/S3/S3Basics.md)
+[S3 SSE](./services/S3/S3ServerSideEnvryption.md)
 
 ## Security
 [KMS](./security/kms.md)
