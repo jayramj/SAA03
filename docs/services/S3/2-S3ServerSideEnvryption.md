@@ -1,3 +1,5 @@
+# Server Side Encryption
+
 * S3 buckets are not encrypted, objects are
 * Each object in a bucket might be using different encryption settings
 

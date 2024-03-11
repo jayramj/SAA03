@@ -1,4 +1,4 @@
-# S3 Object Storage Classes
+# Object Storage Classes
 
 ## S3 Stanard
 * This is the default storage class. This is also most balanced class

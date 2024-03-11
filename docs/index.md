@@ -3,13 +3,11 @@
 ## Services
 [IAM](./services/iam.md) 
 
-[S3 Basics](./services/S3/S3Basics.md) 
+[S3 Basics](./services/S3/1-S3Basics.md) 
 
-[S3 SSE](./services/S3/S3ServerSideEnvryption.md) 
+[S3 SSE](./services/S3/2-S3ServerSideEnvryption.md) 
 
-[S3 Storage Classes](./services/S3/ObjectstorageClasses.md) 
-
-
+[S3 Storage Classes](./services/S3/3-ObjectstorageClasses.md)
 
 ## Security
 [KMS](./security/kms.md)

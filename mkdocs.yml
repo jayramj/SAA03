@@ -4,8 +4,9 @@ theme:
   features:
     - navigation.sections
     - navigation.instant
-    - toc.follow
+    - navigation.expand
     - navigation.top
+    - toc.follow  
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -27,7 +28,6 @@ theme:
       accent: lime
   extra_css:
   - stylesheets/extra.css
-
 copyright: |
   &copy; 2024 <a href="https://github.com/jayramj"  target="_blank" rel="noopener">Jayram Joshi</a>
 

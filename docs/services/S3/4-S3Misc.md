@@ -1,3 +1,5 @@
+# Miscallaneous
+
 ## S3 Lifecycle Configuration
 * For lifecycle transition an object in S3 Standard has to be there for duration of 30 days before it can be moved to other storage classes using a transition rule
 * One can manually move the object to other classes at any point of time
