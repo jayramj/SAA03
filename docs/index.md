@@ -18,9 +18,9 @@
 
 [WellArchitected](./Misc/wellarchitected.md) 
 
-[TopicsMindMao](./Misc/topicsmindmap.md) 
+[Topics MindMaP](./Misc/topicsmindmap.md) 
 
 ## Must Revisit Lectures
 
-[VPCRoutingAndInternetGateway][https://learn.cantrill.io/courses/1820301/lectures/41301351]
+[VPCRouting And InternetGateway](https://learn.cantrill.io/courses/1820301/lectures/41301351)
 
