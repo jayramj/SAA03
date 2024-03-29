@@ -15,3 +15,11 @@
     * Authentication
     * User Data
 * Metadata service itself is not authenticated or encrypted
+* Userdata url is - http://169.254.169.254/latest/user-data. 
+* Userdata can be 16kb max
+* Userdata can be consumed once i.e. at time of launch
+* cfn-init is helper script used for EC2 initialization
+* cfn-init is invoked from user data
+* cfn-init works with stack updates i.e. it observes instance meta data. When the meta data changes cfn-init can take actions
+* Creation Policy - It is added to a logical resource (e.g EC2Instance) in a CF template. The ResourceSignal attribute in the logical resource is used to make the Resource send a signal to CF.
+* cfn-signal command reports success or failure of cfn-init.
