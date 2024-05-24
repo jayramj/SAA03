@@ -24,3 +24,5 @@
 
 [VPCRouting And InternetGateway](https://learn.cantrill.io/courses/1820301/lectures/41301351)
 
+[Implement DNSSec with R53](https://learn.cantrill.io/courses/1820301/lectures/43460378)
+
